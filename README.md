@@ -6,3 +6,9 @@ I wrote in Japanese.
 使用言語：主にPython、Javascript<br>
 作成中：ツールサイト、オセロAI<br>
 中学生です。プログラミングは5年目ですが実力はありません。
+
+#### 今聞いてる曲(たぶん)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i6db5syw2btcrbugmix4jny77u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31i6db5syw2btcrbugmix4jny77u&redirect=true)
+
+#### Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kokecoco&theme=github)
