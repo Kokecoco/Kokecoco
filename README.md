@@ -9,7 +9,7 @@ I wrote in Japanese.
 
 #### Github Stats
 <p align="left">
-  <image alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kokecoco&theme=gruvbox" height="240px" />
+  <image alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kokecoco&theme=gruvbox" height="246px" />
     <br>
   <image alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokecoco&theme=gruvbox" height="250px" />
 <image alt="Trophys" src="https://github-readme-stats.vercel.app/api?username=Kokecoco&show_icons=true&theme=gruvbox" height="250px" />
