@@ -10,8 +10,8 @@ I wrote in Japanese.
 #### Github Stats
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kokecoco&theme=gruvbox)
 <p align="left">
-  <image alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokecoco&theme=gruvbox" height="150px">
-<image alt="Trophys" src="https://github-readme-stats.vercel.app/api?username=Kokecoco&show_icons=true&theme=gruvbox" height="150px">
+  <image alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokecoco&theme=gruvbox" height="300px">
+<image alt="Trophys" src="https://github-readme-stats.vercel.app/api?username=Kokecoco&show_icons=true&theme=gruvbox" height="300px">
 </p>
 #### My Skills
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,bootstrap,react,github,git,vim,neovim,ubuntu,windows,bash,discord,figma,firebase,cloudflare,gmail,latex,md,linux,nodejs,notion,powershell,unity,vscode,visualstudio,vercel,wordpress)
