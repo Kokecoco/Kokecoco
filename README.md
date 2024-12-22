@@ -12,3 +12,9 @@ I wrote in Japanese.
 
 #### Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kokecoco&theme=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokecoco
+)](https://github.com/anuraghazra/github-readme-stats)
+
+#### My Skills
+![](https://skillicons.dev/icons?i=js,html,css,python,django,bootstrap,react,github,git,vim,neovim,ubuntu,windows,bash,discord,figma,firebase,cloudflare,gmail,latex,md,linux,nodejs,notion,powershell,unity,vscode,visualstudio,vercel,wordpress)
