@@ -14,7 +14,9 @@ I wrote in Japanese.
   <image alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokecoco&theme=gruvbox" height="200px">
 <image alt="Trophys" src="https://github-readme-stats.vercel.app/api?username=Kokecoco&show_icons=true&theme=gruvbox" height="200px">
 </p>
+  
 #### My Skills
+
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,bootstrap,react,github,git,vim,neovim,ubuntu,windows,bash,discord,figma,firebase,cloudflare,gmail,latex,md,linux,nodejs,notion,powershell,unity,vscode,visualstudio,vercel,wordpress)
 
 #### 今聞いてる曲(たぶん)
