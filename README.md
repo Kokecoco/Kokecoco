@@ -9,9 +9,7 @@ I wrote in Japanese.
 
 #### Github Stats
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kokecoco&theme=gruvbox)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokecoco&theme=gruvbox)
-
 ![Trophys](https://github-readme-stats.vercel.app/api?username=Kokecoco&show_icons=true&theme=gruvbox)
 
 #### My Skills
