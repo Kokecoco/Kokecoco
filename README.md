@@ -9,6 +9,8 @@
   <image alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokecoco&theme=gruvbox" height="200px" />
 <image alt="Trophys" src="https://github-readme-stats.vercel.app/api?username=Kokecoco&show_icons=true&theme=gruvbox" height="200px" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kokecoco)](https://github.com/ryo-ma/github-profile-trophy)
   
 #### My Skills
 
