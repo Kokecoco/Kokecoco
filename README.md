@@ -1,6 +1,4 @@
 # Kokecoco
-作成中：ツールサイト、オセロAI<br>
-中学生です。プログラミングは5年目ですが実力はありません。
 
 #### Github Stats
 <p align="left">
